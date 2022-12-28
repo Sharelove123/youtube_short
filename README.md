@@ -1,16 +1,30 @@
 # youtube_short
+This is a prototype of for creating shorts,reels like ui in flutter framework with dart language...
 
-A new Flutter project.
+i have used only one package that is :- video_player (you will need to put in pubspec file you can also see in my pubspec file...
+i have created assets folder and put all the video it and also told the pubspec file that yes it contain assets folder (you can refer to the app)...
+the app uses simple json data created within the app and loading few data from it and showing it to the shorts card widget you can refer the file...
 
-## Getting Started
+Note:-
+    it contain total 5 files in defferent folder i m only some stuff that this files are performing they are and what their contents are given below:-
+      
+    1.main.dart:-
+            simple showing the Short screen...
+      
+    2.short_page.dart:-
+            Screen for all shorts..
+      
+    3.short_card.dart:-
+            this file is for short widget...
+      
+    4.short_model.dart:-
+            this file is used to convert json data to object data...
+      
+    5.short_data.dart:-
+            this file have data for the shorts in json format "title","channel name","video source"... 
+      
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+below video shows the output of the video...
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
