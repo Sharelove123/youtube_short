@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/120705135/209822778-b0681525-4a40-409e-81c9-88021a2c3728.mp4
+
 # youtube_short
 This is a prototype of for creating shorts,reels like ui in flutter framework with dart language...
 
