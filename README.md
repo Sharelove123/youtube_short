@@ -27,8 +27,10 @@ Note:-
     5.short_data.dart:-
             this file have data for the shorts in json format "title","channel name","video source"... 
       
-
+Some bugs:-
+    I think using dispose is giveing me some issues. i will see it later... Happy new year...
 
 below video shows the output of the video...
 
 https://user-images.githubusercontent.com/120705135/209822778-b0681525-4a40-409e-81c9-88021a2c3728.mp4
+
